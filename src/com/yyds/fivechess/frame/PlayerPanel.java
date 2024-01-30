@@ -5,12 +5,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * @author miaochangwei1
- * @Package : com.yyds.fivechess.frame
- * @Description : TODO
- * @Create on : 2024/1/3 11:41
- **/
 public class PlayerPanel extends JPanel {
 
     private JLabel userLabel;

@@ -3,12 +3,6 @@ package com.yyds.fivechess.frame;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * @author miaochangwei1
- * @Package : com.yyds.fivechess
- * @Description : TODO
- * @Create on : 2024/1/3 11:40
- **/
 public class MainFrame extends JFrame {
 
     private ChessBoardPanel chessBoardPanel;

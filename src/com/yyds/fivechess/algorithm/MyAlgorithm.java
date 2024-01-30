@@ -1,11 +1,5 @@
 package com.yyds.fivechess.algorithm;
 
-/**
- * @author miaochangwei1
- * @Package : com.yyds.fivechess.algorithm
- * @Description : TODO
- * @Create on : 2024/1/3 15:36
- **/
 public class MyAlgorithm {
     private static final int BOARD_SIZE = 15;
     private static final int EMPTY = 0;
